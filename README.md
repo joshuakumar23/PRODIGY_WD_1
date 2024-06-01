@@ -1,7 +1,6 @@
 This code snippet represents a personalized landing page for a website. Here's a description of the code:
 
 HTML:
-
 The HTML structure begins with the usual document type declaration (<!DOCTYPE html>) and the opening <html> tag with the language attribute set to English.
 The <head> section contains metadata such as character set, viewport settings, and the title of the page.
 External styles are linked via a <link> tag to a separate CSS file named styles.css.
@@ -10,8 +9,8 @@ The header includes a navigation menu with links to various sections of the page
 The main sections (#features, #benefits, #testimonials) contain information about the features, benefits, and testimonials of the product or service being promoted.
 Each section consists of headings (<h2>, <h3>), paragraphs (<p>), and citation (<cite>) elements for testimonials.
 The footer includes contact information or links to social media profiles.
-CSS:
 
+CSS:
 The CSS section resets default browser styles for consistency across different browsers.
 Body background color is set to a light gray (#f0f0f0), and font-family is specified as Arial or sans-serif for better readability.
 The header and footer have background colors (#007bff for header, #333 for footer) and text colors (#fff) to create a contrasting visual effect.
